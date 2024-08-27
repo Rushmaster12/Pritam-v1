@@ -17,25 +17,17 @@
   </a>
 </p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{chhaseeb47}/count.svg" alt="chhaseeb47 :: Visitor's Count" /></p>
 
 <p align="center">
   <a href="https://whatsapp.com/channel/0029VanbiBu30LKJjMVwwJ1K"><img src="https://img.shields.io/badge/Connect on WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="https://youtube.com/@officialpritam07"><img
-src="https://img.shields.io/badge/Subcribe On Youtube-E4405F?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://whatsapp.com/channel/0029VanbiBu30LKJjMVwwJ1K"><img src="https://img.shields.io/badge/https://chat.whatsapp.com/CRUGX39sRqDB9qtRGMSTqr?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-</p>
-
+  <a
 <p align="center">
-  <a href="https://github.com/officialpritam07/followers"><img title="Followers" src="https://img.shields.io/github/followers/officialpritam07?color=red&style=flat-square"></a>
-  <a href="https://github.com/officialpritam07/Pritam-v1/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/officialpritam07/Pritam-v1?color=blue&style=flat-square"></a>
-  <a href="https://github.com/officialpritam07/Pritam-v1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/officialpritam07/Pritam-v1?color=red&style=flat-square"></a>
-  <a href="https://github.com/officialpritam07/Pritam-v1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/officialpritam07/Pritam-v1?label=Watchers&color=blue&style=flat-square"></a>
-  <a href="https://github.com/officialpritam07/Pritam-v1"><img title="Open Source" src="https://img.shields.io/badge/Author-PRITAM-red?v=103"></a>
-  <a href="https://github.com/officialpritam07/Pritam-v1"src="https://img.shields.io/github/repo/https://github.com/Pritam-v1?style=flat-square&color=green"></a>
-  <a href="https://github.com/officialpritam07/Pritam-v1/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
-</p>
-
+  <a
+href="https://youtube.com/@officialpritam07"><img
+src="https://img.shields.io/badge/Subcribe On Youtube-E4405F?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+  <a 
+    
 ---
 
 ### 1. FORK THIS REPO
@@ -44,7 +36,7 @@ src="https://img.shields.io/badge/Subcribe On Youtube-E4405F?style=for-the-badge
 
 ### 2. GET SESSION ID VIA PAIR CODE
 
-<a href='https://toxic-crocodile-goutammallick516-cab1ca96.koyeb.app' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
+
 
 ### DEPLOY TO HEROKU
 
