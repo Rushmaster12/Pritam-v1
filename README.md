@@ -1,32 +1,18 @@
-# Pritam-V1
-
 <p align="center">
-  <a href="https://youtube.com/@officialpritam07">
+  <span style="font-size: 24px; font-weight: bold; color: #4B92DB; font-family: Arial, sans-serif; text-shadow: 2px 2px 4px #aaa;">
+    WELLCOME
+  </span>
+</p>
+<p align="center">
+  <a href="https://youtu.be/WcA7GZuaN0A">
     <img alt="Pritam-V1" height="300" src="https://graph.org/file/2fa88b776ecdc757e9a43.jpg">
   </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/officialpritam07"><img title="Author" src="https://img.shields.io/badge/Pritam-V1-black?style=for-the-badge&logo=WhatsApp"></a>
 </p>
 
 <p align="center">Introducing Pritam-V1, It is designed to bring a whole new level of excitement to your boring WhatsApp use.</p>
 
 <p align="center">
-  <a aria-label="Pritam-v1 is free to use" href="https://youtube.com/@officialpritam07" target="_blank">
-  </a>
-</p>
-
-
-<p align="center">
-  <a href="https://whatsapp.com/channel/0029VanbiBu30LKJjMVwwJ1K"><img src="https://img.shields.io/badge/Connect on WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a
-<p align="center">
-  <a
-href="https://youtube.com/@officialpritam07"><img
-src="https://img.shields.io/badge/Subcribe On Youtube-E4405F?style=for-the-badge&logo=youtube&logoColor=white">
-  </a>
-  <a 
+  <a aria-label="Pritam-v1 is free to use" 
     
 ---
 
@@ -57,22 +43,19 @@ src="https://img.shields.io/badge/Subcribe On Youtube-E4405F?style=for-the-badge
 
 
 
-## OWNER
+## OWNER & DEVELOPER
 
-<div align="left">
-  <a href="https://github.com/officialpritam07"><img src="https://graph.org/file/2fa88b776ecdc757e9a43.jpg" width="300" height="200" alt="Sid"></a>
-  
-  | [PRITAM](https://github.com/officialpritam07) |
-  | Developer |
-</div>
+[![PRITAM](https://img.shields.io/badge/-PRITAM-2088FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/officialpritam07)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/officialpritam.07)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/officialpritam.007)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/916296678356)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:officialpritam07@gmail.com)
+[![Join Telegram](https://img.shields.io/badge/Telegram-Join%20Chat-brightgreen)](https://t.me/Officialpritam07)
 
 ## MAINTAINED BY
 
-<a href="https://github.com/Rushmaster12.png?size=100" width="100" height="100">](https://github.com/Rushmaster12) 
----|---
-[RUSHMASTER](https://github.com/Rushmaster12)
-Promotion | Group & chanel Maintenance |
-
+[![HRUTICK](https://img.shields.io/badge/HRUTICK-4B92DB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rushmaster12)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917020728211)
 
 ## Reminder
 
@@ -82,13 +65,6 @@ Promotion | Group & chanel Maintenance |
 
 ---
 
-<h1 align="center">Keep Supporting</h1>
-
-<br>
-
-## Contact
-
-<p align="left">
-  <a href="mailto: officialpritam07@gmail.com"><img title="Author" src="https://img.shields.io/badge/GMAIL-ME-black?style=for-the-badge&logo=Gmail"></a>
-  <a href="https://wa.me/916296678356?text=Hi+ bro"><img title="Author" src="https://img.shields.io/badge/WHATSAPP-ME-red?style=for-the-badge&logo=WhatsApp"></a>
+<p align="center">
+  <strong><em>Keep supporting us.</em>
 </p>
