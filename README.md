@@ -1,8 +1,6 @@
 <p align="center">
-  <span style="font-size: 24px; font-weight: bold; color: #4B92DB; font-family: Arial, sans-serif; text-shadow: 2px 2px 4px #aaa;">
-    WELLCOME
-  </span>
-</p>
+  <a
+<p style="color:rgb(255, 0, 0);"><strong>WELCOME</strong></p>
 <p align="center">
   <a href="https://youtu.be/WcA7GZuaN0A">
     <img alt="Pritam-V1" height="300" src="https://graph.org/file/2fa88b776ecdc757e9a43.jpg">
@@ -44,8 +42,6 @@
 
 
 ## OWNER & DEVELOPER
-
-[![PRITAM](https://img.shields.io/badge/-PRITAM-2088FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/officialpritam07)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/officialpritam.07)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/officialpritam.007)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/916296678356)
