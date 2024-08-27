@@ -36,6 +36,7 @@ src="https://img.shields.io/badge/Subcribe On Youtube-E4405F?style=for-the-badge
 
 ### 2. GET SESSION ID VIA PAIR CODE
 
+[![Work in Progress](https://img.shields.io/badge/Work%20in%20Progress-Multicolor?style=for-the-badge&logoWidth=20&labelColor=000000&colorA=8B0000&colorB=FFD700)](https://github.com/your-repo)
 
 
 ### DEPLOY TO HEROKU
