@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/officialpritam07"><img title="Author" src="https://img.shields.io/badge/Ethix-Xsid-black?style=for-the-badge&logo=WhatsApp"></a>
+  <a href="https://github.com/officialpritam07"><img title="Author" src="https://img.shields.io/badge/Pritam-V1-black?style=for-the-badge&logo=WhatsApp"></a>
 </p>
 
 <p align="center">Introducing Pritam-V1, It is designed to bring a whole new level of excitement to your boring WhatsApp use.</p>
@@ -21,7 +21,8 @@
 
 <p align="center">
   <a href="https://whatsapp.com/channel/0029VanbiBu30LKJjMVwwJ1K"><img src="https://img.shields.io/badge/Connect on WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="https://youtube.com/@officialpritam07"><img src="https://img.shields.io/badge/Subcribe On Youtube-E4405F?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://youtube.com/@officialpritam07"><img
+src="https://img.shields.io/badge/Subcribe On Youtube-E4405F?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href="https://whatsapp.com/channel/0029VanbiBu30LKJjMVwwJ1K"><img src="https://img.shields.io/badge/https://chat.whatsapp.com/CRUGX39sRqDB9qtRGMSTqr?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </p>
 
@@ -30,8 +31,8 @@
   <a href="https://github.com/officialpritam07/Pritam-v1/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/officialpritam07/Pritam-v1?color=blue&style=flat-square"></a>
   <a href="https://github.com/officialpritam07/Pritam-v1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/officialpritam07/Pritam-v1?color=red&style=flat-square"></a>
   <a href="https://github.com/officialpritam07/Pritam-v1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/officialpritam07/Pritam-v1?label=Watchers&color=blue&style=flat-square"></a>
-  <a href="https://github.com/officialpritam07/Pritam-v1"><img title="Open Source" src="https://img.shields.io/badge/Author-ETHIX SID X %20HASEEB-red?v=103"></a>
-  <a href="https://github.com/officialpritam07/Pritam-v1"><img title="Size" src="https://img.shields.io/github/repo-size/https://github.com/Pritam-v1?style=flat-square&color=green"></a>
+  <a href="https://github.com/officialpritam07/Pritam-v1"><img title="Open Source" src="https://img.shields.io/badge/Author-PRITAM-red?v=103"></a>
+  <a href="https://github.com/officialpritam07/Pritam-v1"src="https://img.shields.io/github/repo/https://github.com/Pritam-v1?style=flat-square&color=green"></a>
   <a href="https://github.com/officialpritam07/Pritam-v1/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
 
