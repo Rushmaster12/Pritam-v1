@@ -5,7 +5,8 @@ ENV NODE_ENV=production
 
 # Install necessary packages and clean up to reduce image size
 RUN apt-get update && \
-  apt-get install -y \
+  apt-get install -y --no-install-recommends \
+    software-properties-common \
     ffmpeg \
     imagemagick \
     webp && \
