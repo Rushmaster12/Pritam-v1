@@ -1,5 +1,8 @@
 FROM node:lts-buster
 
+# Set the Node.js environment to production
+ENV NODE_ENV=production
+
 # Install necessary packages and clean up to reduce image size
 RUN apt-get update && \
   apt-get install -y \
