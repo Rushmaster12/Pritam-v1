@@ -68,7 +68,7 @@ async function downloadSessionData() {
         console.error('Please add your session to SESSION_ID env !!');
         process.exit(1);
     }
-    const sessdata = config.SESSION_ID.split("Ethix-MD&")[1];
+    const sessdata = config.SESSION_ID.split("Pritam-V1&")[1];
     const url = `https://pastebin.com/raw/${sessdata}`;
     try {
         const response = await axios.get(url);
@@ -95,7 +95,7 @@ async function start() {
             version,
             logger: pino({ level: 'silent' }),
             printQRInTerminal: true,
-            browser: ["Ethix-MD", "safari", "3.3"],
+            browser: ["Pritam-V1", "safari", "3.3"],
             auth: state,
             getMessage: async (key) => {
                 if (store) {
