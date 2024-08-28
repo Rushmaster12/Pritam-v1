@@ -3,28 +3,19 @@ dotenv.config();
 
 import {
     makeWASocket,
-    Browsers,
-    jidDecode,
-    makeInMemoryStore,
-    makeCacheableSignalKeyStore,
     fetchLatestBaileysVersion,
     DisconnectReason,
     useMultiFileAuthState,
-    getAggregateVotesInPollMessage
+    makeInMemoryStore
 } from '@whiskeysockets/baileys';
 import { Handler, Callupdate, GroupUpdate } from './event/index.js';
-import { Boom } from '@hapi/boom';
 import express from 'express';
 import pino from 'pino';
 import fs from 'fs';
 import NodeCache from 'node-cache';
 import path from 'path';
 import chalk from 'chalk';
-import { writeFile } from 'fs/promises';
-import moment from 'moment-timezone';
 import axios from 'axios';
-import fetch from 'node-fetch';
-import * as os from 'os';
 import config from '../config.cjs';
 import pkg from '../lib/autoreact.cjs';
 const { emojis, doReact } = pkg;
@@ -33,24 +24,18 @@ const sessionName = "session";
 const app = express();
 const orange = chalk.bold.hex("#FFA500");
 const lime = chalk.bold.hex("#32CD32");
-let useQR;
-let isSessionPutted;
 let initialConnection = true;
 const PORT = process.env.PORT || 3000;
 
-const MAIN_LOGGER = pino({
-    timestamp: () => `,"time":"${new Date().toJSON()}"`
+const logger = pino({
+    timestamp: () => `,"time":"${new Date().toJSON()}"`,
+    level: 'trace'
 });
-const logger = MAIN_LOGGER.child({});
-logger.level = "trace";
 
 const msgRetryCounterCache = new NodeCache();
 
 const store = makeInMemoryStore({
-    logger: pino().child({
-        level: 'silent',
-        stream: 'store'
-    })
+    logger: pino({ level: 'silent' }).child({ stream: 'store' })
 });
 
 const __filename = new URL(import.meta.url).pathname;
@@ -82,14 +67,14 @@ async function downloadSessionData() {
 }
 
 if (!fs.existsSync(credsPath)) {
-    downloadSessionData();
+    await downloadSessionData();
 }
 
 async function start() {
     try {
         const { state, saveCreds } = await useMultiFileAuthState(sessionDir);
         const { version, isLatest } = await fetchLatestBaileysVersion();
-        console.log(Pritam-V1 using WA v${version.join('.')}, isLatest: ${isLatest}`);
+        console.log(`Pritam-V1 using WA v${version.join('.')}, isLatest: ${isLatest}`);
         
         const Matrix = makeWASocket({
             version,
@@ -139,7 +124,6 @@ async function start() {
             try {
                 const mek = chatUpdate.messages[0];
                 if (!mek.key.fromMe && config.AUTO_REACT) {
-                    console.log(mek);
                     if (mek.message) {
                         const randomEmoji = emojis[Math.floor(Math.random() * emojis.length)];
                         await doReact(randomEmoji, mek, Matrix);
