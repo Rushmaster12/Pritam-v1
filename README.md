@@ -20,7 +20,7 @@
 
 ### 2. GET SESSION ID VIA PAIR CODE
 
-[![Work in Progress](https://img.shields.io/badge/Work%20in%20Progress-Multicolor?style=for-the-badge&logoWidth=20&labelColor=000000&colorA=8B0000&colorB=FFD700)](https://github.com/your-repo)
+[![Get session id](https://img.shields.io/badge/Get_session_id-Blue?style=for-the-badge&logo=appveyor)](https://replit.com/@officialpritam1/Pritam-V1#index.js)
 
 
 ### DEPLOY TO HEROKU
