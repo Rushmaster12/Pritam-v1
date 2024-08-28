@@ -1,11 +1,11 @@
 {
   "name": "Pritam-V1",
   "version": "10.8.1",
-  "description": "Pritam-V1 latest multi device whatsapp bot",
+  "description": "Pritam-V1 latest multi device WhatsApp bot",
   "main": "src/index.js",
   "type": "module",
   "scripts": {
-    "start": "pm2 start src/index.js --deep-monitoring --attach --name Pritam-V1",
+    "start": "pm2 start src/index.js --attach --name Pritam-V1",
     "stop": "pm2 stop Pritam-V1",
     "restart": "pm2 restart Pritam-V1"
   },
@@ -26,14 +26,11 @@
     "axios": "^1.6.8",
     "betabotz-tools": "^0.0.7",
     "chalk": "^5.3.0",
-    "child_process": "^1.0.2",
-    "crypto": "^1.0.1",
     "dotenv": "^16.4.5",
     "express": "^4.19.2",
     "ffmpeg": "^0.0.4",
     "file-type": "^19.0.0",
     "fluent-ffmpeg": "^2.1.3",
-    "fs": "^0.0.1-security",
     "google-it": "^1.6.4",
     "human-readable": "^0.2.1",
     "instagram-user": "^2.0.1",
@@ -49,19 +46,20 @@
     "node-fetch": "^3.3.2",
     "node-os-utils": "^1.3.7",
     "node-webpmux": "^3.2.0",
-    "os": "^0.1.2",
     "pdfkit": "^0.15.0",
     "pino": "^8.20.0",
     "play-dl": "^1.9.7",
     "pm2": "^5.4.0",
     "proto": "^1.0.19",
     "qrcode": "^1.5.3",
-    "readline": "^1.3.0",
     "remove.bg": "^1.3.0",
     "tesseract.js": "^5.1.0",
     "translate-google-api": "^1.0.4",
     "uuid": "^9.0.1",
     "yt-search": "^2.11.0",
     "ytdl-core": "^4.11.5"
+  },
+  "engines": {
+    "node": ">=14.0.0"
   }
 }
