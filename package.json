@@ -7,7 +7,7 @@
   "scripts": {
     "start": "pm2 start src/index.js --deep-monitoring --attach --name Pritam-V1",
     "stop": "pm2 stop Pritam-V1",
-    "restart": "pm2 restart Ethix-MD"
+    "restart": "pm2 restart Pritam-V1"
   },
   "keywords": ["pritam-v1", "whatsapp-bot", "whatsapp md bot"],
   "author": "PRITAM",
