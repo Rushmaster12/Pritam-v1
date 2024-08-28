@@ -50,7 +50,7 @@
 
 ## MAINTAINED BY
 
-[![HRUTICK](https://img.shields.io/badge/HRUTICK-4B92DB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rushmaster12)
+[![𝚪𝐔𝐒𝚮 𝚳𝚫𝐒𝚻𝚵𝚪](https://img.shields.io/badge/HRUTICK-4B92DB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rushmaster12)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917020728211)
 
 ## Reminder
